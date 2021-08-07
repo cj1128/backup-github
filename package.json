@@ -1,0 +1,13 @@
+{
+  "name": "backup-github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "CJ <cjting1128@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/core": "3.5.1",
+    "axios": "0.21.1",
+    "fecha": "4.2.1",
+    "shelljs": "0.8.4"
+  }
+}
