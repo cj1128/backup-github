@@ -1,6 +1,6 @@
 # Backup GitHub
 
-A little script to backup github repos to my person gitea.
+A little script to backup github repos (only includes repos created by user) to my person gitea.
 
 All params are passed by env variables:
 
